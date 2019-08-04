@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C1051</color>
+    <color name="colorPrimaryDark">#0E072D</color>
+    <color name="colorAccent">#61045F</color>
+    <color name="ktp">#185C85</color>
+    <color name="kk">#185C85</color>
+    <color name="sim">#185C85</color>
+    <color name="kis">#185C85</color>
+    <color name="paspor">#185C85</color>
+</resources>
